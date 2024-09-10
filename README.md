@@ -3,8 +3,8 @@
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
 - <b>Internal Security Audit </b>
-  - [Risk Assessment](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Controls & Compliance Checklist](https://sites.google.com/view/treydupree/project-page)
+  - [Risk Assessment](https://github.com/willydup/RiskAssessmentLab)
 - <b>Linux </b>
   - [File Permissions & Authorizations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>SQL Queries </b>
