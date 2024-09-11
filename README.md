@@ -5,12 +5,10 @@
 - <b>Internal Security Audit </b>
   - [Risk Assessment](https://github.com/willydup/RiskAssessmentLab)
   - [Controls & Compliance Checklist](https://github.com/willydup/Controls-Compliance-Checklist)
-- <b>Linux </b>
-  - [File Permissions & Authorizations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>SQL Queries </b>
-  - [Applying Filters](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Python </b>
-  - [Algorithm for File Updates](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Labs </b>
+  - [Linux: File Permissions & Authorizations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [SQL: Applying Filters](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Python: Algorithm for File Updates](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2> 📄 Certifications </h2>
 
