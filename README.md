@@ -3,7 +3,7 @@
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
 
 - <b>Internal Security Audit </b>
-  - [Controls & Compliance Checklist](https://sites.google.com/view/treydupree/project-page)
+  - [Controls & Compliance Checklist](https://github.com/willydup/Controls-Compliance-Checklist)
   - [Risk Assessment](https://github.com/willydup/RiskAssessmentLab)
 - <b>Linux </b>
   - [File Permissions & Authorizations](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
