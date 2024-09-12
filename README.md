@@ -12,7 +12,7 @@
 
 <h2> 📄 Certifications </h2>
 
-- [CompTIA Security+ ce](https://www.certmetrics.com/comptia/public/verification.aspx/)
+- [CompTIA Security+ ce](https://i.imgur.com/Jjn8J9M.png)
 
 <h2> 📲 Connect with me:</h2>
 
