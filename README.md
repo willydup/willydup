@@ -7,7 +7,7 @@
   - [Controls & Compliance Checklist](https://github.com/willydup/Controls-Compliance-Checklist)
 - <b>Labs </b>
   - [Linux: File Permissions & Authorizations](https://github.com/willydup/LinuxLab/)
-  - [SQL: Applying Filters](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [SQL: Applying Filters](https://github.com/willydup/SQLFilters/)
   - [Python: Algorithm for File Updates](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2> 📄 Certifications </h2>
