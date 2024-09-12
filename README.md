@@ -8,11 +8,11 @@
 - <b>Labs </b>
   - [Linux: File Permissions & Authorizations](https://github.com/willydup/LinuxLab/)
   - [SQL: Applying Filters](https://github.com/willydup/SQLFilters/)
-  - [Python: Algorithm for File Updates](https://github.com/willydup/Sec-Cert)
+  - [Python: Algorithm for File Updates](https://github.com/willydup/PythonAlgorithms)
 
 <h2> 📄 Certifications </h2>
 
-- [CompTIA Security+ ce](https://i.imgur.com/Jjn8J9M.png)
+- [CompTIA Security+ ce](https://github.com/willydup/Sec-Cert)
 
 <h2> 📲 Connect with me:</h2>
 
