@@ -21,6 +21,7 @@
 
 [instagram]: https://www.instagram.com/willydup/
 [linkedin]: https://www.linkedin.com/in/treydupree
+[twitter]: https://x.com/willydup3
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
